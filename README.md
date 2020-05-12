@@ -2,6 +2,8 @@
 
 ## Technical Details
 
+Total lines of code : 91 files, 7803 codes, 218 comments, 950 blanks, all 8971 lines
+
 Frontend by [Amit Gujar](http://github.com/AmitGujar)
 
 Backend By [Prathamesh More](http://github.com/pprathameshmore)
