@@ -58,11 +58,11 @@ Cloudflare
 * Create a question bank for courses.
 * Create exams for courses.
 * An exam can be created using adding manual questions or picking random questions
-* from a question bank of that subject.
+  from a question bank of that subject.
 * Each question bank consists of a particular topic of that subject.
 * Get questions by topic.
 * Questions details can be updated or changed to other topics of that subject or
-* removed easily with clean card-based UI.
+  removed easily with clean card-based UI.
 * Manage exams like updating, removing.
 * See the results for a particular exam of the subject.
 * See scored marks by the student for a particular student.
