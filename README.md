@@ -107,3 +107,17 @@ Fees Update and Print | New Admission | Exams for Courses
 Course Question Bank | Exams | Results
 ------------ | ------------- | ---------------
 ![Course Question Bank](./screenshots/mobile/course__questions.jpg)| ![exams](./screenshots/mobile/Exam_for_java.jpg) | ![result](./screenshots/mobile/result.jpg)
+
+#### Desktop:
+
+| Admin Dashboard                                               | Student Details                                               |
+| ------------------------------------------------------------- | ------------------------------------------------------------- |
+| ![Admin Dashboard](./screenshots/desktop/admin_dashboard.png) | ![Student Details](./screenshots/desktop/student_details.png) |
+
+| Student Login                                               | Fees Info                                         |
+| ----------------------------------------------------------- | ------------------------------------------------- |
+| ![Student Details](./screenshots/desktop/student_login.png) | ![Fees Info](./screenshots/desktop/fees_info.png) |
+
+| Courses                                       | Exams Info                                     |
+| --------------------------------------------- | ---------------------------------------------- |
+| ![Courses](./screenshots/desktop/courses.png) | ![Exams Info](./screenshots/desktop/exams.png) |
