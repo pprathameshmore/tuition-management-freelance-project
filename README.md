@@ -6,11 +6,12 @@ https://spark-classes-app.herokuapp.com/
 
 Admin:
 
-Email : admin@test.com
+Email : admin@test.com </br>
 Password : test
 
-Student : 
-Email : Any registerated student
+Student
+
+Email : Any registerated student </br>
 Password : sparkclasses
 
 ## Technical Details
