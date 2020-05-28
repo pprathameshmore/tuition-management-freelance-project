@@ -1,5 +1,18 @@
 # A freelance project developed by Prathamesh More and Amit Gujar for computer tuition organization.
 
+## Demo
+
+https://spark-classes-app.herokuapp.com/
+
+Admin:
+
+Email : admin@test.com
+Password : test
+
+Student : 
+Email : Any registerated student
+Password : sparkclasses
+
 ## Technical Details
 
 Total lines of code : 91 files, 7803 codes, 218 comments, 950 blanks, all 8971 lines
